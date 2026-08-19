@@ -1,8 +1,8 @@
-# Privacy Policy for Fit Check
+# Privacy Policy for Posted
 
 **Last updated: [DATE]**
 
-This Privacy Policy describes how Fit Check ("we," "our," or "the app") collects, uses, and shares information when you use our mobile application.
+This Privacy Policy describes how Posted ("we," "our," or "the app") collects, uses, and shares information when you use our mobile application.
 
 ## Information We Collect
 
@@ -21,7 +21,7 @@ When you create an account, we collect:
 - Your privacy setting (public or private account)
 
 ### Contacts (Optional)
-If you choose to use the "find friends" feature, we access your device's contacts to help you find people you know who already use Fit Check. We do not store your full contact list — we use it only to match existing users and do not retain contact information for people who aren't Fit Check users. You can decline this permission and still use the app normally.
+If you choose to use the "find friends" feature, we access your device's contacts to help you find people you know who already use Posted. We do not store your full contact list — we use it only to match existing users and do not retain contact information for people who aren't Posted users. You can decline this permission and still use the app normally.
 
 ### Usage and Device Information
 - App activity (such as login times, streaks, and general usage patterns) to power features like streak tracking
@@ -50,7 +50,7 @@ We do not sell your personal information.
 
 ## Content Moderation
 
-Fit Check includes tools for users to report posts, comments, and other users, and to block accounts they no longer want to interact with. Reported content is reviewed by us, and we may remove content or suspend accounts that violate our community guidelines. Blocking another user prevents mutual visibility between accounts, including posts, comments, likes, and follow relationships.
+Posted includes tools for users to report posts, comments, and other users, and to block accounts they no longer want to interact with. Reported content is reviewed by us, and we may remove content or suspend accounts that violate our community guidelines. Blocking another user prevents mutual visibility between accounts, including posts, comments, likes, and follow relationships.
 
 ## Your Choices and Rights
 
@@ -65,7 +65,7 @@ We retain your information for as long as your account is active. If you delete 
 
 ## Children's Privacy
 
-Fit Check is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected information from a child under 13, we will delete it.
+Posted is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected information from a child under 13, we will delete it.
 
 ## Security
 
